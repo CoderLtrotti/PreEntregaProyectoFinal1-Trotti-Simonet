@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 3
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 3
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 3
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 3
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 3
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 3
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 3
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 3
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 3
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 3
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 3
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 5
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 6
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 8
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 9
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 11
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 12
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 14
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 15
+  },
+  {
+    "title": "Camiseta",
+    "price": 20,
+    "thumbnail": "ruta_imagen1.jpg",
+    "id": 16
+  },
+  {
+    "title": "Camiseta",
+    "price": 20,
+    "thumbnail": "ruta_imagen1.jpg",
+    "id": 17
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 19
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 20
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 22
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 23
+  },
+  {
+    "title": "Pantalón",
+    "price": 40,
+    "thumbnail": "ruta_imagen2.jpg",
+    "id": 25
+  },
+  {
+    "title": "Zapatos",
+    "price": 50,
+    "thumbnail": "ruta_imagen3.jpg",
+    "id": 26
+  }
+]

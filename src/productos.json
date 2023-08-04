@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 1
+  },
+  {
+    "title": "Producto de prueba",
+    "price": 15,
+    "stock": 40,
+    "id": 2
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos deportivos para correr y hacer ejercicio",
+    "code": "ZAP001",
+    "price": 50,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "ruta_imagen3.jpg",
+      "ruta_imagen3_small.jpg"
+    ],
+    "id": 5
+  }
+]
